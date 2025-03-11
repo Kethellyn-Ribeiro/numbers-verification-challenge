@@ -1,7 +1,5 @@
 # numbers-verification-challenge
 
-# Description
-
 This Python script prompts the user to input a number and then evaluates it based on several conditions. The script determines:
 
 - Whether the number is positive, negative, or zero;
